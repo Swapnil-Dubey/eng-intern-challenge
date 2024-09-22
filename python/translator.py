@@ -114,4 +114,4 @@ def convertToBraille(argstr):
 
 
 if __name__ == "__main__":
-    translator()
+    print(translator())
